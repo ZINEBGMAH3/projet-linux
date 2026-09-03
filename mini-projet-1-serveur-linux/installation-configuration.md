@@ -9,3 +9,9 @@ whoami
 id
 groups
 
+### Vérification  finale des permissions
+
+Le répertoire du projet a été vérifié avec :
+
+'''bash
+sudo ls -ld /srv/projet-linux
