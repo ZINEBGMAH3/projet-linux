@@ -13,3 +13,15 @@ Avant l'installation de Nginx, la liste des paquets a été mise à jour avec la
 
 '''bash
 sudo apt update
+
+
+## Création et test de la page Web
+
+Une page HTML personnalisée a été créée dans :
+
+/var/www/html/index.html
+
+la page contient :
+
+-Bienvenue sur mon serveur Ubuntu
+-Cette page  est servie par Nginx.
